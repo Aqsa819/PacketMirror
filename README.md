@@ -16,7 +16,7 @@ A passive network behavior fingerprinting tool that monitors devices on a local 
 
 ## Demo Output
 
-![PacketMirror Demo](demo.png) <img width="554" height="216" alt="WhatsApp Image 2026-06-27 at 12 14 09 PM" src="https://github.com/user-attachments/assets/1e57ba74-933a-4a4f-8d3b-ea8635f0f2d4" />
+![PacketMirror Demo](demo.png) <img width="554" height="216" alt="PacketMirror Demo Output" src="https://github.com/user-attachments/assets/1e57ba74-933a-4a4f-8d3b-ea8635f0f2d4" />
 
 
 ---
